@@ -38,6 +38,6 @@ cd gallery-photo-search-app
 # Acknowledgments
 -Unsplash API: For providing access to a wide range of stunning photos.
 
-For more information, visit [My Website](http://127.0.0.1:3000/index.html).
+
 
 ![Screenshots]https://github.com/Paromita-maji/Interactive-Photo-Album/tree/main/ScreenShot
